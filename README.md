@@ -1,2 +1,1 @@
-# Titanic_Logistic-regression
-EDA
+# EDA1
